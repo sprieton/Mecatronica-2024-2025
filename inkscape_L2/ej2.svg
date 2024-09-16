@@ -1,0 +1,9 @@
+<svg height="140" width="500" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- * Dibujar una elipse
+       * cx,cy: Centro de la elipse
+       * rx: Radio horizontal
+       * ry: Radio vertical 
+  -->
+  <ellipse rx="100" ry="50" cx="200" cy="80" fill="red"/>
+</svg> 
